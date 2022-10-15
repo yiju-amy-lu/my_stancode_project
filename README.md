@@ -1,1 +1,1 @@
-# my_stancode_project
+# My_stanCode_project
